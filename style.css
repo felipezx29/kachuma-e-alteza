@@ -1,0 +1,36 @@
+
+    
+
+body{
+    background-color: #0E3B43;
+    font-family: Noto Serif Display;
+}
+#titprc{
+    padding: 3px;
+    border: 2px solid black;
+    border-radius: 3px;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    max-width: 500px;
+    margin: 0px auto;
+    background-color: #A3BBAD;
+}
+article h2{
+    background-color: #A3BBAD;
+    max-width: 400px;
+}
+
+.ctg{
+    background-color: #357266;
+    padding: 5px;
+    border: 5px solid rgb(129, 129, 129);
+    border-radius: 10px;
+}
+.ctg2{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 300px;
+    text-align: center;
+
+}
